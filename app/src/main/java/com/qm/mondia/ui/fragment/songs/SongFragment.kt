@@ -7,7 +7,7 @@ import androidx.fragment.app.viewModels
 import com.qm.mondia.base.view.BaseFragment
 import com.qm.mondia.databinding.FragmentSongBinding
 import com.qm.mondia.util.*
-
+//MARK:- SongFragment @Docs
 class SongFragment : BaseFragment<FragmentSongBinding, SongViewModel>() {
     override fun pageTitle(): String = ""
     override val mViewModel: SongViewModel by viewModels()

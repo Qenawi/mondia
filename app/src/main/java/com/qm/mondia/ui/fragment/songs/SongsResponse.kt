@@ -5,6 +5,7 @@ import com.google.gson.annotations.SerializedName
 import com.qm.mondia.base.view.BaseParcelable
 import kotlinx.parcelize.Parcelize
 
+//MARK:- Statistics @Docs
 
 @Parcelize
 data class Statistics(

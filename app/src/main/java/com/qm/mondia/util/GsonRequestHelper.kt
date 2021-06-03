@@ -10,6 +10,7 @@ import com.qm.mondia.constants.ConstString.BASE_URL
 import java.io.UnsupportedEncodingException
 import java.nio.charset.Charset
 
+// MARK:- Class built for mapping any thing to Json
 
 fun RequestQueue.requestGETCall(
     headers: MutableMap<String, String>? = null,

@@ -11,7 +11,7 @@ import com.qm.mondia.constants.Codes
 import com.qm.mondia.databinding.ActivityMainBinding
 import com.qm.mondia.util.*
 import java.util.*
-
+//MARK:- MainActivity @Docs
 class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
 
     override val mViewModel: MainViewModel by viewModels()
@@ -35,7 +35,7 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
         navController = navHostFragment.navController
     }
 
-
+    //MARK:- update view title
     fun changeTitle(title: String?) {
         title?.let {
             mViewModel.obsTitle.set(title)
