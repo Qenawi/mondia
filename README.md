@@ -12,6 +12,11 @@ task built for mondia
 - Timber.
 - Gson.
 
+# Todo 
+- automatic token update 
+- add Dagger2  
+- reach 50 % test coverage  
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=qenawi.mondia)
