@@ -69,4 +69,8 @@ dependencies {
     implementation("com.android.volley:volley:1.2.0")
     implementation(external.gson)
     implementation("io.coil-kt:coil:1.2.1")
+    //MARK:- testing
+    testImplementation("junit:junit:4.12")
+    testImplementation('androidx.test:core:1.3.0')
+
 }
