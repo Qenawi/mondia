@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2962FF</color>
+    <color name="colorPrimaryDark">#0320C3</color>
+    <color name="colorPrimaryLight">#7096FF</color>
+    <color name="colorAccent">#D50000</color>
+
+
+
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="gray">#767575</color>
+
+
+    <color name="default_inactive">#A4A4A4</color>
+    <color name="default_normal_text_color_material">#ff999999</color>
+    <color name="disabled_text_color_material_light">#80999999</color>
+    <color name="disabled_text_color_material_dark">#80999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_white">#80FFFFFF</color>
+    <color name="elevation_color">#BDBDBD</color>
+</resources>

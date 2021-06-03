@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:color="@android:color/transparent"/>
+    <item android:state_focused="false" android:color="@android:color/transparent"/>
+<!--    <item android:state_hovered="true" android:color="@color/g_red"/>-->
+    <item android:color="@android:color/transparent" android:state_active="true"/>
+    <item android:color="@android:color/transparent" android:state_active="false"/>
+<!--    <item android:color="@color/g_red"/>-->
+</selector>

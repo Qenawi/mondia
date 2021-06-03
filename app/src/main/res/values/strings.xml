@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mondia</string>
+    <string name="all_data_required">add data req</string>
+    <string name="search">Search…</string>
+    <string name="continue_">Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit_app">are you sure you want to exit the app?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_error">check your network connection</string>
+    <string name="server_error">server error</string>
+</resources>
