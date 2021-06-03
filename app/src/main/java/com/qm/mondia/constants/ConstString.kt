@@ -9,7 +9,7 @@ object ConstString {
   const val BASE_URL = "http://staging-gateway.mondiamedia.com/v2/api/sayt/flat"
 
   //MARK:- update token in case it was expired
-  const val AuthorizationKey = "Bearer C30f45844-bdb3-4f1c-8707-6a7b19dc14e4"
+  const val AuthorizationKey = "Bearer C12f0d1cb-0a46-49f8-8726-8d8afc8cd1cf"
   const val GateWayKey = "Ge6c853cf-5593-a196-efdb-e3fd7b881eca"
   const val RequestSongLimit = 10
 }
